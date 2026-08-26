@@ -6,7 +6,7 @@ description: >
   本 Skill 只提供方法和流程，不内置、不打包任何 IP 素材；IP 由使用者提供，版权由使用者自行负责。
 version: 2.1.0
 last_updated: 2026-08-26
-license: See LICENSE - free for non-commercial use; commercial authorization required.
+license: CC BY-NC 4.0; commercial authorization required from the author.
 ---
 
 # 数学闯关游戏网页生成器
