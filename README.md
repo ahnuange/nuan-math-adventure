@@ -16,14 +16,36 @@
 - 音效和旁白分开，普通话硬要求，进度本地保存
 - 六层检验 + 真实浏览器点击，不假称能跑
 
-## 怎么用
+## 安装与使用
 
-把 [SKILL.md](SKILL.md) 放进你的 Agent / Cola 的 skills 目录，然后带上两样东西启动：
+### 推荐环境
+
+**Cola、Claude Code、豆包、WorkBuddy、Codex**，以及其他支持 Skills 的 Agent。
+
+### 安装
+
+在终端执行：
+
+```bash
+npx -y skills add ahnuange/nuan-math-adventure -g --all
+```
+
+这个仓库目前包含一个 Skill：`nuan-math-adventure`。
+
+### 调用
+
+安装后，直接对 Agent 说：
+
+```text
+我想用数学闯关游戏网页生成器，给四年级孩子制作一个数学闯关网页。
+```
+
+然后提供两样东西：
 
 1. 孩子现在读几年级，最喜欢的动漫或游戏是什么
 2. 这次要做的数学内容：上传教材 PDF/图片，或提供版本、单元和知识点
 
-详细流程见 SKILL.md，从教材读取到覆盖范围选择到浏览器验收，一步步走。
+详细流程见 [SKILL.md](SKILL.md)，从教材读取到覆盖范围选择，再到浏览器验收，一步步进行。
 
 ## 版权与授权
 
