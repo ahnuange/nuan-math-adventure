@@ -20,7 +20,7 @@
 
 ### 推荐环境
 
-**Cola、Claude Code、豆包、WorkBuddy、Codex**，以及其他支持 Skills 的 Agent。
+**Cola、豆包、WorkBuddy、Codex、Claude Code**，以及其他支持 Skills 的 Agent。
 
 ### 安装
 
@@ -34,7 +34,13 @@ npx -y skills add ahnuange/nuan-math-adventure -g --all
 
 ### 调用
 
-安装后，直接对 Agent 说：
+安装后，可以直接调用：
+
+```text
+/nuan-math-adventure
+```
+
+也可以直接对 Agent 说：
 
 ```text
 我想用数学闯关游戏网页生成器，给四年级孩子制作一个数学闯关网页。
