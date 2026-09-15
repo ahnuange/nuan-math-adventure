@@ -77,6 +77,8 @@ npx -y skills add ahnuange/nuan-math-adventure -g --all
 
 这是一份公开源码、非商业许可，不是 OSI 定义的无条件开源许可。
 
+[LICENSE](LICENSE) 放的是 CC BY-NC 4.0 官方完整法律文本。中文说明与补充条款（商业授权、第三方 IP、声音与生成内容、署名要求）见 [LICENSE-ZH.md](LICENSE-ZH.md)；两者表述不一致时，以官方文本为准。
+
 ## 作者
 
 阿暖哥 · 45 岁裸辞 · 46 岁用 AI 解决真实问题
